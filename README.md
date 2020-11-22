@@ -1,0 +1,1 @@
+"This is seanoh's first git project on the odin project!"
